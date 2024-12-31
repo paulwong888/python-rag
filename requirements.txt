@@ -1,0 +1,9 @@
+transformers
+datasets
+tokenizers
+scipy
+torch
+openai
+backoff
+pyarrow
+python-dotenv
